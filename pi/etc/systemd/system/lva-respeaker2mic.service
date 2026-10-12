@@ -1,0 +1,17 @@
+[Unit]
+Description=LVA peripheral controller - ReSpeaker 2-Mic HAT (APA102 LEDs + GPIO17 button)
+After=linux-voice-assistant.service
+Wants=linux-voice-assistant.service
+
+[Service]
+Type=simple
+User=florian
+SupplementaryGroups=gpio spi
+WorkingDirectory=/home/florian/lva-respeaker2mic
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/home/florian/lva-respeaker2mic/.venv/bin/python "/home/florian/linux-voice-assistant/examples/ReSpeaker 2mic HAT/respeaker_2mic_hat.py" --host localhost --port 6055
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,13 @@
+# Mikrofon-Benchmark: WAV-Aufnahmen bleiben lokal
+*.wav
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor und System
+.DS_Store
+*~
+*.swp

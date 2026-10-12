@@ -1,0 +1,26 @@
+[Unit]
+Description=Linux-Voice-Assistant
+After=network-online.target sound.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=florian
+WorkingDirectory=/home/florian/linux-voice-assistant
+Environment=PATH=/home/florian/linux-voice-assistant/.venv/bin:/usr/bin:/bin
+Environment=CLIENT_NAME="voice-sat"
+Environment=PULSE_SERVER="/run/user/1000/pulse/native"
+Environment=XDG_RUNTIME_DIR="/run/user/1000"
+Environment=PULSE_COOKIE="/home/florian/linux-voice-assistant/tmp_pulse_cookie"
+Environment=PREFERENCES_FILE="/home/florian/linux-voice-assistant/preferences.json"
+Environment=PORT="6053"
+Environment=AUDIO_INPUT_DEVICE="Built-in Audio Stereo"
+Environment=AUDIO_OUTPUT_DEVICE="pipewire/alsa_output.platform-soc_sound.stereo-fallback"
+Environment=WAKE_MODEL="okay_nabu"
+Environment=STOP_MODEL="stop"
+ExecStart=/home/florian/linux-voice-assistant/docker-entrypoint.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
