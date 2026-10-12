@@ -1,0 +1,196 @@
+run,variant,sentence,ref,hyp,wer
+live_base,avg,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Das Licht im Wohnzimmer auf fünf Tönen,0.375
+live_base,avg,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_base,avg,s03,Stelle einen Timer auf drei Minuten.,,1.0
+live_base,avg,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,", die 12-",0.8571
+live_base,avg,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur H,0.1429
+live_base,avg,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",F,1.0
+live_base,avg,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die-Wärmepumpen-W-Wartungsvertrag,1.0
+live_base,avg,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Set. die உr Heizung im Arbeitszimmer auf 21,5°C.",0.2
+live_base,avg,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträte die Audio-Teile per Wlan an den Server.,0.1818
+live_base,L,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50 Pro,0.125
+live_base,L,s02,Wie warm ist es im Badezimmer?,warm ist es im Badezimmer.,0.1667
+live_base,L,s03,Stelle einen Timer auf drei Minuten.,auf 3 Minuten.,0.5
+live_base,L,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-jährige übt Querflöte in der Brünnstraße.,0.1429
+live_base,L,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,die Rollläden im Schlaf-Hälfte.,0.5714
+live_base,L,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische,",1.0
+live_base,L,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,"Die Dunau-Sch? Schifffahrtsgesellschaft, den Wärmepumpen-Wartungsvertrag",0.4
+live_base,L,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze�디 Heizung im Arbeits-Zimmer-Zimmer auf 21,5 Grad.",0.2
+live_base,L,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry không überträgt die,0.6364
+live_base,R,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50 Prozent,0.0
+live_base,R,s02,Wie warm ist es im Badezimmer?,warm ... warm ist es im Badezimmer.,0.1667
+live_base,R,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_base,R,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die Zwirge übt Querflöte in der Brünnstra.,0.2857
+live_base,R,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.0
+live_base,R,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Frische Fische, Frische Fische, Fisht Fischers Fritz.",0.4
+live_base,R,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Don-Au-Dampf-Schifffahrts-Gesellschaft prüft den Wärmepumpenwartungsvertrag.,0.0
+live_base,R,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung�에inheit im Arbeitszimmer auf 90,5°C.",0.2
+live_base,R,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-,0.5455
+live_base,evo4,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50 Prozent.,0.0
+live_base,evo4,s02,Wie warm ist es im Badezimmer?,WILLIAMS,1.0
+live_base,evo4,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_base,evo4,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige in der Grünenstraße.,0.4286
+live_base,evo4,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,fne. Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.1429
+live_base,evo4,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz",0.0
+live_base,evo4,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärpumpenwartungsvertrag.,0.2
+live_base,evo4,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setzung im Arbeitszimmer auf 21,5 Grad.",0.3
+live_base,evo4,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,,1.0
+live_base,avg+hp80norm,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_base,avg+hp80norm,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im,0.1667
+live_base,avg+hp80norm,s03,Stelle einen Timer auf drei Minuten.,Stelle den Timer auf drei Minuten.,0.1667
+live_base,avg+hp80norm,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-jährige-jährige übt Querflöte in der Brünnstraße.,0.2857
+live_base,avg+hp80norm,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne אלe die Rollen im Schlafzimmer zur Hälfte.,0.2857
+live_base,avg+hp80norm,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Frische Fische, Frische Fische, Frische Fische đây",0.6
+live_base,avg+hp80norm,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,0.0
+live_base,avg+hp80norm,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Set. die Heizung im Almer auf 21,8",0.4
+live_base,avg+hp80norm,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Teile per W-Lang an den Server.,0.1818
+live_base_b,avg,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Lichtzimmer auf 50%.,0.375
+live_base_b,avg,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmerchimmer?,0.1667
+live_base_b,avg,s03,Stelle einen Timer auf drei Minuten.,Stelle ein Timer auf 3 Minuten.,0.1667
+live_base_b,avg,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_base_b,avg,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffnet die Wolke im Schlafzimmer zur Hälfte.,0.2857
+live_base_b,avg,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",0.0
+live_base_b,avg,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donau-Dampfschifffahrtsgesellschaft prüft den Wärmepump-Wartungsvertrag.,0.2
+live_base_b,avg,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_base_b,avg,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per Wlan an den Server.,0.0909
+live_base_b,avg,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0
+live_base_b,L,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_base_b,L,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_base_b,L,s03,Stelle einen Timer auf drei Minuten.,Stelle ein Timer auf 3 Minuten.,0.1667
+live_base_b,L,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_base_b,L,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Roller im Schlafzimmer zur Hälfte.,0.1429
+live_base_b,L,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",0.0
+live_base_b,L,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donau-Dampfschifffahrtsgesellschaft prüft den Wärmepumpt-Wartungsvertrag.,0.2
+live_base_b,L,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_base_b,L,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die audio-Dateien per Wlan an den Server.,0.0909
+live_base_b,L,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0
+live_base_b,R,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_base_b,R,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_base_b,R,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_base_b,R,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_base_b,R,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Roller im Schlafzimmer zur Hälfte.,0.1429
+live_base_b,R,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",0.0
+live_base_b,R,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepunkt-Wartungsvertrag.,0.2
+live_base_b,R,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_base_b,R,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per W lang an den Server.,0.2727
+live_base_b,R,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0
+live_base_b,evo4,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_base_b,evo4,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_base_b,evo4,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_base_b,evo4,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_base_b,evo4,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Roller im Schlafzimmer zur Hälfte.,0.1429
+live_base_b,evo4,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischer's Fritz fischt frische Fische, frische Fische fischt Fischer's Fritz.",0.4
+live_base_b,evo4,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepump-Wartungsvertrag.,0.2
+live_base_b,evo4,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_base_b,evo4,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per W lang an den Server.,0.2727
+live_base_b,evo4,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0
+live_base_b,avg+hp80norm,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_base_b,avg+hp80norm,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_base_b,avg+hp80norm,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf 3 Minuten.,0.0
+live_base_b,avg+hp80norm,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünen Straße.,0.2857
+live_base_b,avg+hp80norm,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Roller im Schlafzimmer zur Hälfte.,0.1429
+live_base_b,avg+hp80norm,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",0.0
+live_base_b,avg+hp80norm,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpt-Wartungsvertrag.,0.2
+live_base_b,avg+hp80norm,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_base_b,avg+hp80norm,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per Wlan an den Server.,0.0909
+live_base_b,avg+hp80norm,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0
+live_cap54,avg,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_cap54,avg,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_cap54,avg,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_cap54,avg,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_cap54,avg,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.0
+live_cap54,avg,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fisches Fritz, frisch, frische, Fische, frische, Fische, Fischt, Fisches Fritz",0.3
+live_cap54,avg,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsfall.,0.2
+live_cap54,avg,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_cap54,avg,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per Wlan an den Server.,0.0909
+live_cap54,avg,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinner mich morgen um 7.30 Uhr an den Müll.,0.1
+live_cap54,L,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_cap54,L,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_cap54,L,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_cap54,L,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_cap54,L,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.0
+live_cap54,L,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frische Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Frisch Fr,11.0
+live_cap54,L,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Werbepumpenwartungsfall.,0.2
+live_cap54,L,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_cap54,L,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audiodateien per Wlan an den Server.,0.0909
+live_cap54,L,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Errinne mich morgen um 7 Uhr 30 an den Müll.,0.1
+live_cap54,R,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_cap54,R,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_cap54,R,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf 3 Minuten.,0.0
+live_cap54,R,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_cap54,R,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.0
+live_cap54,R,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fisches Fritz, Fischt, Frische, Fische, Frische, Fische, Fischt, Fisches Fritz",0.2
+live_cap54,R,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsverfahren.,0.2
+live_cap54,R,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_cap54,R,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audiodateien per Wlan an den Server.,0.0909
+live_cap54,R,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Errinne mich morgen um 7 Uhr 30 an den Müll.,0.1
+live_cap54,evo4,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_cap54,evo4,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_cap54,evo4,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_cap54,evo4,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_cap54,evo4,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.0
+live_cap54,evo4,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fisches Fritz fischt frische Fische, frische Fische fischt Fisches Fritz.",0.2
+live_cap54,evo4,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsverfahren.,0.2
+live_cap54,evo4,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_cap54,evo4,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audiodateien per Wlan an den Server.,0.0909
+live_cap54,evo4,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinner mich morgen um 7.30 Uhr an den Müll.,0.1
+live_cap54,avg+hp80norm,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_cap54,avg+hp80norm,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_cap54,avg+hp80norm,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_cap54,avg+hp80norm,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_cap54,avg+hp80norm,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.0
+live_cap54,avg+hp80norm,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fisches Fritz, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische, frische Fische,",6.3
+live_cap54,avg+hp80norm,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsfall.,0.2
+live_cap54,avg+hp80norm,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_cap54,avg+hp80norm,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per Wlan an den Server.,0.0909
+live_cap54,avg+hp80norm,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinner mich morgen um 7.30 Uhr an den Müll.,0.1
+live_alc,avg,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_alc,avg,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_alc,avg,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_alc,avg,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_alc,avg,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffnet die Rollläden im Schlafzimmer zur Hälfte.,0.1429
+live_alc,avg,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",0.0
+live_alc,avg,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,0.0
+live_alc,avg,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_alc,avg,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per WLAN an den Server.,0.0909
+live_alc,avg,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0
+live_alc,L,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_alc,L,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_alc,L,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_alc,L,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-jährige übt Querflöte in der Grünstraße.,0.0
+live_alc,L,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffnet die Rollläden im Schlafzimmer zur Hälfte.,0.1429
+live_alc,L,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",0.0
+live_alc,L,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,0.0
+live_alc,L,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_alc,L,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per WLAN an den Server.,0.0909
+live_alc,L,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0
+live_alc,R,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_alc,R,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_alc,R,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf 3 Minuten.,0.0
+live_alc,R,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_alc,R,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.0
+live_alc,R,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Frips fischt frische Fische, frische Fische fischt Fischers Frips.",0.2
+live_alc,R,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,0.0
+live_alc,R,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_alc,R,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per WLAN an den Server.,0.0909
+live_alc,R,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0
+live_alc,evo4,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_alc,evo4,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_alc,evo4,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_alc,evo4,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_alc,evo4,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.0
+live_alc,evo4,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",0.0
+live_alc,evo4,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,0.0
+live_alc,evo4,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_alc,evo4,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audiodateien per WLAN an den Server.,0.0909
+live_alc,evo4,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0
+live_alc,avg+hp80norm,s01,Schalte das Licht im Wohnzimmer auf fünfzig Prozent.,Schalte das Licht im Wohnzimmer auf 50%.,0.0
+live_alc,avg+hp80norm,s02,Wie warm ist es im Badezimmer?,Wie warm ist es im Badezimmer?,0.0
+live_alc,avg+hp80norm,s03,Stelle einen Timer auf drei Minuten.,Stelle einen Timer auf drei Minuten.,0.0
+live_alc,avg+hp80norm,s04,Die Zwölfjährige übt Querflöte in der Grünstraße.,Die 12-Jährige übt Querflöte in der Grünstraße.,0.0
+live_alc,avg+hp80norm,s05,Öffne die Rollläden im Schlafzimmer zur Hälfte.,Öffne die Rollläden im Schlafzimmer zur Hälfte.,0.0
+live_alc,avg+hp80norm,s06,"Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.","Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",0.0
+live_alc,avg+hp80norm,s07,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.,0.0
+live_alc,avg+hp80norm,s08,Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.,"Setze die Heizung im Arbeitszimmer auf 21,5 Grad.",0.0
+live_alc,avg+hp80norm,s09,Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.,Der Raspberry Pi überträgt die Audio-Dateien per WLAN an den Server.,0.0909
+live_alc,avg+hp80norm,s10,Erinnere mich morgen um sieben Uhr dreißig an den Müll.,Erinnere mich morgen um 7.30 Uhr an den Müll.,0.0

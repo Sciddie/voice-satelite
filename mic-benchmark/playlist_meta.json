@@ -1,0 +1,78 @@
+{
+ "fs": 44100,
+ "segments": [
+  {
+   "id": "s01",
+   "text": "Schalte das Licht im Wohnzimmer auf fünfzig Prozent.",
+   "voice": "de-DE-ConradNeural",
+   "start": 3.0,
+   "end": 5.667437641723356
+  },
+  {
+   "id": "s02",
+   "text": "Wie warm ist es im Badezimmer?",
+   "voice": "de-DE-KatjaNeural",
+   "start": 7.167437641723356,
+   "end": 8.921995464852607
+  },
+  {
+   "id": "s03",
+   "text": "Stelle einen Timer auf drei Minuten.",
+   "voice": "de-DE-ConradNeural",
+   "start": 10.421995464852607,
+   "end": 12.388004535147392
+  },
+  {
+   "id": "s04",
+   "text": "Die Zwölfjährige übt Querflöte in der Grünstraße.",
+   "voice": "de-DE-KatjaNeural",
+   "start": 13.888004535147392,
+   "end": 16.955736961451247
+  },
+  {
+   "id": "s05",
+   "text": "Öffne die Rollläden im Schlafzimmer zur Hälfte.",
+   "voice": "de-DE-ConradNeural",
+   "start": 18.455736961451247,
+   "end": 20.74877551020408
+  },
+  {
+   "id": "s06",
+   "text": "Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.",
+   "voice": "de-DE-KatjaNeural",
+   "start": 22.24877551020408,
+   "end": 26.297437641723356
+  },
+  {
+   "id": "s07",
+   "text": "Die Donaudampfschifffahrtsgesellschaft prüft den Wärmepumpenwartungsvertrag.",
+   "voice": "de-DE-ConradNeural",
+   "start": 27.797437641723356,
+   "end": 31.58235827664399
+  },
+  {
+   "id": "s08",
+   "text": "Setze die Heizung im Arbeitszimmer auf einundzwanzig Komma fünf Grad.",
+   "voice": "de-DE-KatjaNeural",
+   "start": 33.082358276643994,
+   "end": 37.16718820861678
+  },
+  {
+   "id": "s09",
+   "text": "Der Raspberry Pi überträgt die Audiodaten per WLAN an den Server.",
+   "voice": "de-DE-ConradNeural",
+   "start": 38.66718820861678,
+   "end": 42.205011337868484
+  },
+  {
+   "id": "s10",
+   "text": "Erinnere mich morgen um sieben Uhr dreißig an den Müll.",
+   "voice": "de-DE-KatjaNeural",
+   "start": 43.705011337868484,
+   "end": 46.62687074829932
+  }
+ ],
+ "beep_start": 1.0,
+ "end_beep_start": 48.12687074829932,
+ "duration": 49.62687074829932
+}

@@ -1,0 +1,16 @@
+=== period 32 buffer 128 frames @16k (period 2 ms)
+  buffer_size  : 128
+  period_size  : 64
+=== period 64 buffer 256 frames @16k (period 4 ms)
+  buffer_size  : 256
+  period_size  : 64
+=== period 128 buffer 512 frames @16k (period 8 ms)
+  buffer_size  : 512
+  period_size  : 128
+=== period 256 buffer 1024 frames @16k (period 16 ms)
+  buffer_size  : 1024
+  period_size  : 256
+=== period 1024 buffer 4096 frames @16k (period 64 ms)
+  buffer_size  : 4096
+  period_size  : 1024
+XRUN_DONE
